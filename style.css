@@ -1,0 +1,35 @@
+* {
+
+    padding: 1%;
+    margin: 1%;
+    box-sizing:border-box;
+
+}
+
+
+.heading {
+    
+    background-color: rgb(212, 126, 179);
+    width: 100%;
+    
+}
+
+
+
+.footer  h3{ 
+    background-color: rgb(212, 126, 179);
+width: 100%;
+
+}
+
+ 
+ 
+ .footer {
+ 
+ height: 20px;
+    background-color: #e76eb5;
+    
+ 
+ }
+ 
+ 
